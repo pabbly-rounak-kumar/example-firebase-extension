@@ -6,7 +6,7 @@ displayName: Firestore Webhook Test
 description: Minimal test extension for webhook functionality
 
 license: Apache-2.0
-sourceUrl: https://github.com/pabbly-apps/pc-integration-firestorewebhookextension
+sourceUrl: https://github.com/pabbly-rounak-kumar/example-firebase-extension
 
 author:
   authorName: Pabbly Connect
